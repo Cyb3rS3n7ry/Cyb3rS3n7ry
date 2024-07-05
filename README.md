@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-##I am a
+I am a
 - Cybersecurity Enthusiast 
-- loves playing CTFs
+- CTF Player
 - wanna be Bug Bounty Hunter
 
